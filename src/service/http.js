@@ -1,5 +1,5 @@
 import axios from "axios";
-export const API_URL = `http://localhost:8081/api`;
+export const API_URL = `https://lovzkg.herokuapp.com/api`;
 
 
 const ACCESS_TOKEN_NAME = "accessToken";
